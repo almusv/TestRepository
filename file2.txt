@@ -1,3 +1,4 @@
 Здесь будут птицы
 line from user2
 312314132
+critical bug fixed
