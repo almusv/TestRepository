@@ -1,4 +1,4 @@
 line from user2
 Good evening! (from branch master)
 some new feature
-line from user1 - lesson about rebase 
+line from user1 - lesson about rebase, new info 456 
